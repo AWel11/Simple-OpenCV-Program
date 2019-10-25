@@ -2,7 +2,7 @@ This chapter request a Qt backend OpenCV,
 so you should first compile opencv source with MinGW (since Qt only support MinGW-compiled opencv version)
 For me, I've tried many times to compile opencv by cmake,
 but all failed, every time I type "mingw32-make"(now I change it to "make"),
-it would stop at 41% or so, and prompted that something wrong whit libopencv_core412.dll.
+it would stop at 41% or so, and prompted that something wrong with libopencv_core412.dll.
 
 So, I have no choice to download a MinGW-compiled opencv from the internet,
 but it didn't work neither.
