@@ -18,6 +18,6 @@ INCLUDEPATH += D:\opencv\opencv-build-QtCreator\include \
                D:\opencv\opencv-build-QtCreator\include\opencv2
 LIBS += D:\opencv\opencv-build-QtCreator\x64\mingw\lib\libopencv_*
 ```
-*So every project consists of main.cpp and .pro*
+**So every project consists of main.cpp and .pro**
 
 #Just for me
